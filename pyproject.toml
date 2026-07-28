@@ -1,0 +1,4 @@
+[project]
+name="CyberTools"
+version="0.1.0-alpha"
+requires-python=">=3.14"
